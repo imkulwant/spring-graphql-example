@@ -1,1 +1,1 @@
-# spring-boot-template
+# SpringBoot-GraphQL-Example
